@@ -1,0 +1,148 @@
+{
+  "products": {
+    "Pizza": [
+      {
+        "id": 1,
+        "title": "Spicy Pepperoni",
+        "tagline": "Hot & Bold",
+        "description": "Spicy pepperoni, mozzarella cheese, tomato sauce, and fresh chili for a bold and fiery flavor.",
+        "price": 14.99,
+        "image": "/images/pizza/Pepperoni.png"
+      },
+      {
+        "id": 2,
+        "title": "Margherita Classic",
+        "tagline": "Simple & Fresh",
+        "description": "Fresh mozzarella, tomato sauce, basil, and a drizzle of olive oil on a crispy crust.",
+        "price": 11.99,
+        "image": "/images/pizza/Margherita.png"
+      },
+      {
+        "id": 3,
+        "title": "BBQ Chicken",
+        "tagline": "Smoky & Savory",
+        "description": "Grilled chicken, smoky BBQ sauce, mozzarella, red onion, and fresh cilantro.",
+        "price": 15.99,
+        "image": "/images/pizza/Chicken.png"
+      },
+      {
+        "id": 4,
+        "title": "Four Cheese",
+        "tagline": "Rich & Creamy",
+        "description": "A delicious blend of mozzarella, cheddar, parmesan, and creamy blue cheese.",
+        "price": 16.49,
+        "image": "/images/pizza/Four Cheese.png"
+      },
+      {
+        "id": 5,
+        "title": "Veggie Garden",
+        "tagline": "Fresh & Colorful",
+        "description": "Bell peppers, mushrooms, red onions, black olives, tomatoes, and mozzarella cheese.",
+        "price": 13.99,
+        "image": "/images/pizza/Veggie Garden.png"
+      },
+      {
+        "id": 6,
+        "title": "Meat Lovers",
+        "tagline": "Loaded & Hearty",
+        "description": "Pepperoni, beef, Italian sausage, crispy bacon, mozzarella, and rich tomato sauce.",
+        "price": 17.99,
+        "image": "/images/pizza/Meat Lovers.png"
+      },
+      {
+        "id": 7,
+        "title": "Truffle Mushroom",
+        "tagline": "Elegant & Earthy",
+        "description": "Roasted mushrooms, mozzarella, parmesan, and aromatic truffle oil on a crispy crust.",
+        "price": 18.99,
+        "image": "/images/pizza/Truffle Mushroom.png"
+      },
+      {
+        "id": 8,
+        "title": "Hawaiian Twist",
+        "tagline": "Sweet & Savory",
+        "description": "Juicy pineapple, smoked ham, mozzarella, and tomato sauce for a perfect sweet and savory combination.",
+        "price": 14.49,
+        "image": "/images/pizza/Hawaiian Twist.png"
+      }
+    ],
+        "Burgers": [
+      {
+        "id": 1,
+        "title": "Classic Burger",
+        "tagline": "Hot & Bold",
+        "description": "Juicy beef patty, fresh lettuce, tomato, onion, pickles, and our special burger sauce, served in a soft bun.",
+        "price": 14.99,
+        "image": "/images/burgers/Classic Burger.png"
+      },
+      {
+        "id": 2,
+        "title": "Cheese Burger",
+        "tagline": "Simple & Fresh",
+        "description": "A juicy beef patty topped with melted cheddar cheese, fresh lettuce, tomato, pickles, and special sauce.",
+        "price": 11.99,
+        "image": "/images/burgers/Cheese Burger.png"
+      },
+      {
+        "id": 3,
+        "title": "Double Burger",
+        "tagline": "Smoky & Savory",
+        "description": "Two juicy beef patties layered with melted cheddar cheese, crispy onions, pickles, and our signature burger sauce.",
+        "price": 15.99,
+        "image": "/images/burgers/Double Burger.png"
+      }
+    ],
+       "Sandwiches": [
+      {
+        "id": 1,
+        "title": "Hot Dog Sandwich",
+        "tagline": "Hot & Bold",
+        "description": "Grilled sausage with melted cheddar cheese, caramelized onions, pickles, and special hot dog sauce in a soft toasted bun.",
+        "price": 14.99,
+        "image": "/images/sandwiches/Hot Dog Sandwich.png"
+      },
+      {
+        "id": 2,
+        "title": "Bacon Sandwich",
+        "tagline": "Simple & Fresh",
+        "description": "A juicy beef patty topped with melted cheddar cheese, fresh lettuce, tomato, pickles, and special sauce.",
+        "price": 11.99,
+        "image": "/images/sandwiches/Bacon Sandwich.png"
+      },
+      {
+        "id": 3,
+        "title": "Chicken Sandwich",
+        "tagline": "Smoky & Savory",
+        "description": "Two juicy beef patties layered with melted cheddar cheese, crispy onions, pickles, and our signature burger sauce.",
+        "price": 15.99,
+        "image": "/images/sandwiches/Chicken Sandwich.png"
+      }
+    ],
+    "Fried Chicken": [
+      {
+        "id": 1,
+        "title": "Classic Fried Chicken",
+        "tagline": "Hot & Bold",
+        "description": "Crispy golden chicken pieces seasoned with our special blend of herbs and spices, served hot and juicy.",
+        "price": 14.99,
+        "image": "/images/sandwiches/Hot Dog Sandwich.png"
+      },
+      {
+        "id": 2,
+        "title": "Spicy Fried Chicken",
+        "tagline": "Simple & Fresh",
+        "description": "Crispy fried chicken coated with a spicy seasoning for a bold and fiery flavor.",
+        "price": 11.99,
+        "image": "/images/sandwiches/Bacon Sandwich.png"
+      },
+      {
+        "id": 3,
+        "title": "Chicken Sandwich",
+        "tagline": "Smoky & Savory",
+        "description": "Two juicy beef patties layered with melted cheddar cheese, crispy onions, pickles, and our signature burger sauce.",
+        "price": 15.99,
+        "image": "/images/sandwiches/Chicken Sandwich.png"
+      }
+    ]
+  }
+}
